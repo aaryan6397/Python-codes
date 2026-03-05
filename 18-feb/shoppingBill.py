@@ -24,8 +24,9 @@ else:
     remainingAmount = totalBill - payment
     print("Thank you for your payment. Your remaining balance is: ", remainingAmount)
 
-# output
-# Enter the number of books you buy: 2
-# Enter the number of pens you buy: 3
-# Enter the amount you pay: 150
-# Thank you for your payment. Your remaining balance is:  35
+'''output:
+Enter the number of books you buy: 2
+Enter the number of pens you buy: 3
+Enter the amount you pay: 100
+Thank you for your payment. Your remaining balance is:  35
+'''
