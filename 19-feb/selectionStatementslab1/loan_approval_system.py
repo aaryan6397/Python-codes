@@ -1,7 +1,8 @@
 #5. Loan Approval System Loan approval depends on: 
 #  • Credit score 
 #  • Monthly income 
-#  • Existing loan amount Rules:
+#  • Existing loan amount 
+# Rules:
 #  • Credit score < 600 → Reject
 #  • 600–750 → Further check income 
 #  • 750 → Approve
