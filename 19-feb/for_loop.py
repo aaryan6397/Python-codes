@@ -1,10 +1,13 @@
+# this program demonstrates the use of for loop in python. It will print the even numbers from 10 to 30,
+#  the natural numbers from 1 to 20 and the sum of first 20 natural numbers using for loop.
 
-# simple loop
+ 
+# simple loop to print even numbers from 10 to 30
 
 for n in range(10,30,4):
     print(n*2,end=",")
 
-# natural numbers
+# natural numbers from 1 to 20
 for n in range(1,21):
      print(n,end=",")
 
