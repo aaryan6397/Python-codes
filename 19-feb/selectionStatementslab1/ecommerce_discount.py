@@ -35,7 +35,9 @@ final_amount = cart - (cart * discount / 100)
 print("Discount applied:", discount, "%")
 print("Final payable amount:", final_amount)
 
+
 '''output:
+
 Enter cart value: 1000
 Enter membership (Silver/Gold/Platinum): Gold
 Is it festival season? (yes/no): yes
