@@ -1,0 +1,7 @@
+1. Wap to addition and difference of two numbers using a user-define function
+
+--------- Lab Work ------------
+1. create a module that contains the functions to perform all the operation on threedfigures(cube,cuboid,cylinder,cone,sphere,hemisphere).
+2. create a python program to find out curvedsurfacearea, totalsurfacearea and volume of cylinder.
+3. create a python program to find out curvedsurfacearea, totalsurfacearea and volume of cone.
+4. create a python program to find out curvedsurfacearea, totalsurfacearea and volume of cuboid.
