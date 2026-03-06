@@ -11,10 +11,11 @@ print("Volume:", tf.cuboid_volume(l, b, h))
 
 '''output:
 Enter length of cuboid: 5
-Enter breadth of cuboid: 3
+Enter breadth of cuboid: 2
 Enter height of cuboid: 4
+
 Curved Surface Area: 56.0
-Total Surface Area: 94.0
-Volume: 60.0
+Total Surface Area: 76.0
+Volume: 40.0
 '''
 
