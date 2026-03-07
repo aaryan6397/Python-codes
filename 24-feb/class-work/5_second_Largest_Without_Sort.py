@@ -18,6 +18,7 @@ for num in numbers:
     elif num > second_largest and num != largest:
         second_largest = num
 # Print the list, largest and second largest numbers
+
 print("List:", numbers)
 print("Largest:", largest)
 print("Second Largest:", second_largest)

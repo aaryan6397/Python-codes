@@ -8,6 +8,7 @@ word = "programming"
 
 # Create an empty dictionary to store character frequency
 char_freq = {}
+
 for char in word:
     if char in char_freq:
         char_freq[char] += 1

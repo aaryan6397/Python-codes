@@ -23,7 +23,9 @@ str4 = "world"
 if sorted(str3.lower()) == sorted(str4.lower()):
     
     print(f'"{str3}" and "{str4}" are Anagrams')
+
 else:
+    
     print(f'"{str3}" and "{str4}" are NOT Anagrams')
 
 # Output:

@@ -23,6 +23,7 @@ print("String:", text)
 print("Vowels:", vowel_count)
 print("Consonants:", consonant_count)
 
+
 # Output:
 # String: Hello World
 # Vowels: 3

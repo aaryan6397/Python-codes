@@ -15,9 +15,7 @@ for key, value in dict2.items():
         merged[key] = value
 # Print the original dictionaries and the merged result
 print("Dict 1:", dict1)
-# print("Dict 2:", dict2) --- IGNORE ---
 print("Dict 2:", dict2)
-# print("Merged Dict:", merged) --- IGNORE ---
 print("Merged Dict:", merged)
 
 # Output:
