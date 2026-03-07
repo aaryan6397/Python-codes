@@ -1,0 +1,74 @@
+List in Python: Lab - 1
+
+1. Student Marks Analyzer
+You are given a list of student marks.
+• Remove invalid marks (less than 0 or greater than 100)
+• Calculate average
+• Find topper(s)
+• Display grades based on average.
+
+
+2. E-Commerce Cart System
+Given a list of product prices in a cart:
+• Remove duplicate items
+• Apply 10% discount if total > ₹5000
+• Add GST 18%
+• Display final payable amount.
+
+
+3. Attendance Tracker
+Given a list of student attendance (1 for present, 0 for absent):
+• Calculate attendance percentage
+• Identify students below 75%
+• Replace consecutive absences with a warning flag.
+
+
+4. Salary Processing System
+Given list of employee salaries:
+• Remove salaries below minimum wage
+• Add 5% bonus to employees with salary > 50,000
+• Sort salaries in descending order
+• Display top 3 highest salaries.
+
+
+5. Online Exam Result Processor
+Given a list of student scores:
+• Remove lowest 2 scores
+• Add grace marks of 5 to those scoring between 30–35
+• Count number of students passed (≥ 40).
+
+
+6. Inventory Management
+Given a list of product stock quantities:
+• Remove items with 0 stock
+• Add restock (add 50 units) to items below 10
+• Find total inventory count.
+
+
+7. Bank Transaction Analyzer
+Given a list of transactions (positive = deposit, negative = withdrawal):
+• Calculate total balance
+• Find largest withdrawal
+• Count number of deposits greater than ₹10,000.
+
+
+8. Temperature Monitoring System
+Given daily temperatures of a month:
+• Find hottest and coldest day
+• Replace temperatures above 45°C with “Heat Alert”
+• Count number of extreme days (> 40°C).
+
+
+9. Movie Rating System
+Given list of ratings (1–5):
+• Remove invalid ratings
+• Find average rating
+• Count how many 5-star ratings
+• Sort ratings in ascending order.
+
+
+10. Sports Tournament Points Table
+Given list of team points:
+• Find winner and runner-up
+• Replace negative points with 0
+• Sort leaderboard.
